@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": "6",
+      "title": "hdfkahdfdk fdushfsdfhjs ",
+      "completed": true
+    },
+    {
+      "id": "2fb4",
+      "userId": 1,
+      "title": "welcome to to dolist app",
+      "completed": true
+    },
+    {
+      "id": "9770",
+      "userId": 1,
+      "title": "Welcome to Quantum Compiler",
+      "completed": false
+    },
+    {
+      "id": "07a5",
+      "userId": 1,
+      "title": "apple in the apple",
+      "completed": false
+    },
+    {
+      "id": "4100",
+      "userId": 1,
+      "title": "Work Hard",
+      "completed": false
+    }
+  ]
+}
